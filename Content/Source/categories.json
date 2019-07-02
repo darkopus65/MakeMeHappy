@@ -1,0 +1,272 @@
+[
+    {
+        "name" : "Childhood",
+        "events" : [
+            {
+                "name" : "Bye, Mommy",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "No TV",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Mirror time!",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Your only friend",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Rich peach",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "I aM An AdUlT!!",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Cool kid",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "I'll call him Batman",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Study",
+        "events" : [
+            {
+                "name" : "Chewing gum business",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Wanna some Math?",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Hold the server!",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "God in your locker",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Next, please!",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "The best speller",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Willy Wonka",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "A for Sins",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Disasters",
+        "events" : [
+            {
+                "name" : "Puff! You're rich",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Is this your UFO?",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Rider on the storm",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "U VS Fire God",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Shooting stars",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Fooling the lighting",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Free clothes!",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Calm during the storm",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Love",
+        "events" : [
+            {
+                "name" : "Not paying in cafe. Ever",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Trying everything ;)",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Fan sex",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Home priest",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "Love made of gold",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Bye, abuser",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Nice shot",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Praying for ex's",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Journey",
+        "events" : [
+            {
+                "name" : "Dead man's chest",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Night in the woods",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Diaotin~",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "No rest for the wicked",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "The Wolf of Wallstreet",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "I know how you take shower",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "No need in fashion police",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Meet the Master",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+    {
+        "name" : "Family",
+        "events" : [
+            {
+                "name" : "Golden wedding",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "HelpMe-et",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Casanova",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Faithful genes",
+                "perc" : "Spirituality",
+                "value" : 1
+            },
+            {
+                "name" : "It's family business",
+                "perc" : "Wealth",
+                "value" : 1
+            },
+            {
+                "name" : "Book before hook",
+                "perc" : "Intelligence",
+                "value" : 1
+            },
+            {
+                "name" : "Parent of the year",
+                "perc" : "Attractiveness",
+                "value" : 1
+            },
+            {
+                "name" : "Digesting the butterflies",
+                "perc" : "Spirituality",
+                "value" : 1
+            }
+        ]
+    },
+]
